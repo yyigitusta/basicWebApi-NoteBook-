@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3782137F-A94D-408F-86C3-AC8DBB984A26}|NotDefteri.Api\\NotDefteri.Api.csproj|c:\\users\\yigit\\source\\repos\\notdefteri.api\\notdefteri.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3782137F-A94D-408F-86C3-AC8DBB984A26}|NotDefteri.Api\\NotDefteri.Api.csproj|solutionrelative:notdefteri.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3782137F-A94D-408F-86C3-AC8DBB984A26}|NotDefteri.Api\\NotDefteri.Api.csproj|c:\\users\\yigit\\source\\repos\\notdefteri.api\\notdefteri.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3782137F-A94D-408F-86C3-AC8DBB984A26}|NotDefteri.Api\\NotDefteri.Api.csproj|solutionrelative:notdefteri.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3782137F-A94D-408F-86C3-AC8DBB984A26}|NotDefteri.Api\\NotDefteri.Api.csproj|c:\\users\\yigit\\source\\repos\\notdefteri.api\\notdefteri.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3782137F-A94D-408F-86C3-AC8DBB984A26}|NotDefteri.Api\\NotDefteri.Api.csproj|solutionrelative:notdefteri.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3782137F-A94D-408F-86C3-AC8DBB984A26}|NotDefteri.Api\\NotDefteri.Api.csproj|c:\\users\\yigit\\source\\repos\\notdefteri.api\\notdefteri.api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3782137F-A94D-408F-86C3-AC8DBB984A26}|NotDefteri.Api\\NotDefteri.Api.csproj|solutionrelative:notdefteri.api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\NotDefteri.Api\\Program.cs",
+              "RelativeDocumentMoniker": "NotDefteri.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\NotDefteri.Api\\Program.cs",
+              "RelativeToolTip": "NotDefteri.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:54:47.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\NotDefteri.Api\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotDefteri.Api\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\NotDefteri.Api\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotDefteri.Api\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:46:28.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\NotDefteri.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NotDefteri.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\NotDefteri.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "NotDefteri.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:56:47.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\NotDefteri.Api\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotDefteri.Api\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\yigit\\source\\repos\\NotDefteri.Api\\NotDefteri.Api\\Models\\Note.cs",
+              "RelativeToolTip": "NotDefteri.Api\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:44:03.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
